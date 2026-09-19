@@ -1,4 +1,5 @@
 import Foundation
+import SwiftData
 
 struct Coin: Decodable, Identifiable {
     let id: String
